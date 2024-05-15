@@ -20,7 +20,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA 2024 - ESSE DESAFIO CHAMA-SE SOFRÊNCIA PARA MLK RUIM!",
+  title: "BIA 2024 - ESSE DESAFIO CHAMA-SE TORTURA PARA TORTURADOS!",
 };
 
 export default Header;
