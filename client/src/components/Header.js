@@ -20,7 +20,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA 2024 - ESSE DESAFIO FOI COMPLEXO D+ PRA MIM!!!!",
+  title: "BIA 2024 - DESAFIO 1 CI/CD - ECS - CONCLUIDO!!!",
 };
 
 export default Header;
